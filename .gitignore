@@ -1,3 +1,2 @@
 # sbt
-/target
-/project
+target
